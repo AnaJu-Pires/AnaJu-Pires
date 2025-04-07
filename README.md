@@ -1,12 +1,10 @@
 ## Ana Júlia 🧠💻
 
-**`Backend Developer | Full Stack Explorer | Data Curious`**
+**`Estudante de Engenharia da Computação | Backend Developer | Full Stack Explorer | Data Curious`**
 
 Olá! Me chamo Ana Júlia P. Oliveira, tenho 20 anos e sou estudante de Engenharia da Computação no IFSP. Sou apaixonada por dar vida a ideias através da programação — principalmente no backend, onde a mágica acontece ✨
 
 Tenho experiência construindo aplicações completas, integrando APIs, automatizando processos e também mergulhando em dados para extrair valor com Python e Power BI. Gosto de estar onde o raciocínio lógico encontra a criatividade.
-
-> "Cada linha de código carrega uma solução esperando para ser descoberta."
 
 ---
 
@@ -31,7 +29,7 @@ Tenho experiência construindo aplicações completas, integrando APIs, automati
 
 ---
 
-### 🛠️ Tecnologias que domino
+### 🛠️ Minhas Tecnologias
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java"/>
@@ -70,15 +68,15 @@ Tenho experiência construindo aplicações completas, integrando APIs, automati
 
 - 🎯 Foco atual: backend e fullstack, mas dados continuam no radar  
 - ⚙️ Organizada, determinada e criativa com a lógica  
-- 📐 Amante de interfaces limpas e funcionais (tema escuro é padrão!)  
+- 📐 Uma queda por desings limpos porém criativos  
 - 👥 Curto colaborar, compartilhar e aprender em equipe
 
 ---
 
 ### 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajuliapoliveira&show_icons=true&theme=radical&locale=pt-br"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuliapoliveira&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaju-pires&show_icons=true&theme=radical&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaju-pires&layout=compact&langs_count=7&theme=radical"/>
 
 ---
 
