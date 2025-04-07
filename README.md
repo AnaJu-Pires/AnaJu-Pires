@@ -8,27 +8,6 @@ Tenho experiência construindo aplicações completas, integrando APIs, automati
 
 ---
 
-### 🌐 Redes & Portfólio
-
-<p align="left">
-    <a href="https://github.com/anajuliapoliveira?tab=repositories&sort=stargazers">
-        <img 
-            alt="Estrelas" 
-            title="Repositórios com estrelas" 
-            src="https://custom-icon-badges.demolab.com/github/stars/anajuliapoliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/anajuliapoliveira?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Siga-me no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/anajuliapoliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🛠️ Minhas Tecnologias
 
 <p align="left">
