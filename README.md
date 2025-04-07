@@ -51,11 +51,12 @@ Tenho experiência construindo aplicações completas, integrando APIs, automati
 - 👥 Curto colaborar, compartilhar e aprender em equipe
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaju-pires&show_icons=true&theme=radical&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaju-pires&layout=compact&langs_count=7&theme=radical"/>
 
 ---
+-->
 
