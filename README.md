@@ -1,6 +1,6 @@
 ## Ana Júlia 🧠💻
 
-**`Estudante de Engenharia da Computação | Backend Developer | Full Stack Explorer | Data Curious`**
+**`Estudante de Engenharia da Computação`**
 
 Olá! Me chamo Ana Júlia P. Oliveira, tenho 20 anos e sou estudante de Engenharia da Computação no IFSP. Sou apaixonada por dar vida a ideias através da programação — principalmente no backend, onde a mágica acontece ✨
 
